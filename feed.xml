@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
-  <channel>
+<channel>
     <link>https://jeffreinblatt.com</link>
     <language>en-us</language>
     <copyright>©2024</copyright>
@@ -35,7 +35,7 @@
       <itunes:summary>Cybersecurity Tech Tips</itunes:summary>
       <itunes:subtitle>Cybersecurity Tech Tipss</itunes:subtitle>
       <itunesu:category itunesu:code="1439" />
-      <enclosure url="https://jeffreinblatt.com/audio/CyberSecTips.mp3" type="audio/mp4" length="1" />
+      <enclosure url="https://jeffreinblatt.com/audio/CyberSecTips.mp3" type="audio/mp3" length="1" />
       <guid>https://jeffreinblatt.com/audio/CyberSecTips.mp3</guid>
       <itunes:duration></itunes:duration>
       <pubDate>10/10/2024 2:59:17 AM +00:00</pubDate>
