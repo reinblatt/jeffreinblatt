@@ -7,7 +7,7 @@
     <webMaster>me.jeff@protonmail.com (Jeff Reinblatt)</webMaster>
     <managingEditor>me.jeff@protonmail.com (Jeff Reinblatt)</managingEditor>
     <image>
-      <url>https://landonkey.blob.core.windows.net/sermons/podcast-image.jpg</url>
+      <url>https://jeffreinblatt.com/images/BreakglassCybersecurity.jpg</url>
       <title>The Break Glass Cybersecurity Podcast</title>
       <link>https://jeffreinblatt.com</link>
     </image>
@@ -15,30 +15,30 @@
       <itunes:name>Jeff Reinblatt</itunes:name>
       <itunes:email>me.jeff@protonmail.com</itunes:email>
     </itunes:owner>
-    <itunes:category text="Religion &amp;#38; Spirituality">
-      <itunes:category text="Christianity" />
+    <itunes:category text="Technology &amp;#38; Technology">
+      <itunes:category text="Technology" />
     </itunes:category>
     <itunes:keywords>Cybersecurity, Cyber, Security, Jeff Reinblatt, Break Glass Cybersecurity</itunes:keywords>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://landonkey.blob.core.windows.net/sermons/podcast-image.jpg" />
-    <atom:link href="https://landonkey.blob.core.windows.net/sermons/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thursday, May 30, 2024</pubDate>
+    <itunes:image href="https://jeffreinblatt.com/images/BreakglassCybersecurity.jpg" />
+    <atom:link href="https://jeffreinblatt.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thursday, October 10, 2024</pubDate>
     <title>The Break Glass Cybersecurity Podcast</title>
     <itunes:author>Jeff Reinblatt</itunes:author>
     <description>A semiregularly updated podcast of Cybersecurity from some random guy on the internet.</description>
     <itunes:summary>A semiregularly updated podcast of Cybersecurity from some random guy on the internet</itunes:summary>
     <itunes:subtitle>A semiregularly updated podcast of Cybersecurity from some random guy on the internet</itunes:subtitle>
-    <lastBuildDate>Thursday, May 30, 2024</lastBuildDate>
+    <lastBuildDate>Thursday, October 10, 2024</lastBuildDate>
     <item>
       <title>Cybersecurity Tech Tips</title>
       <description>Cybersecurity Tech Tips</description>
       <itunes:summary>Cybersecurity Tech Tips</itunes:summary>
       <itunes:subtitle>Cybersecurity Tech Tipss</itunes:subtitle>
       <itunesu:category itunesu:code="1439" />
-      <enclosure url="https://landonkey.blob.core.windows.net/sermons/Heaven%20-%20Heirs%20not%20Angels.m4a" type="audio/mp4" length="1" />
-      <guid>https://landonkey.blob.core.windows.net/sermons/Heaven%20-%20Heirs%20not%20Angels.m4a</guid>
+      <enclosure url="https://jeffreinblatt.com/audio/CyberSecTips.mp3" type="audio/mp4" length="1" />
+      <guid>https://jeffreinblatt.com/audio/CyberSecTips.mp3</guid>
       <itunes:duration></itunes:duration>
-      <pubDate>5/30/2024 2:59:17 AM +00:00</pubDate>
+      <pubDate>10/10/2024 2:59:17 AM +00:00</pubDate>
     </item>
     </item>
   </channel>
